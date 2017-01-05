@@ -1,0 +1,20 @@
+1483487774980	geckodriver	INFO	Listening on 127.0.0.1:50914
+1483487775917	mozprofile::profile	INFO	Using profile path /var/folders/lk/_kjk8yx94g3csmjm1tmhh7v80000gn/T/rust_mozprofile.0T8PoLliQ2a3
+1483487775919	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483487775934	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50923
+1483487776682	Marionette	INFO	Listening on port 50923
+1483488409702	geckodriver	INFO	Listening on 127.0.0.1:51083
+1483488410638	mozprofile::profile	INFO	Using profile path /var/folders/lk/_kjk8yx94g3csmjm1tmhh7v80000gn/T/rust_mozprofile.L5OsydYdxazq
+1483488410640	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483488410642	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51092
+1483488411238	Marionette	INFO	Listening on port 51092
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1034] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1034] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1483580542533	geckodriver	INFO	Listening on 127.0.0.1:51277
+1483580543470	mozprofile::profile	INFO	Using profile path /var/folders/lk/_kjk8yx94g3csmjm1tmhh7v80000gn/T/rust_mozprofile.cjtJRin72opK
+1483580543472	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483580543478	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51283
+1483580544271	Marionette	INFO	Listening on port 51283
+[Child 2810] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2810] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
